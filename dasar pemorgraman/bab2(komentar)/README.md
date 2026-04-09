@@ -1,9 +1,12 @@
+
 #include <stdio.h> //ini adalah library untuk input output
 
 int main() {  //fungsi utama dalam program
     printf("Hello, World!");  ///ini adalah fungsi untuk mencetak teks ke layar
     return 0;//mengembalikan nilai 0 menandakan program selesai dengan sukses
 }     //akhir dari fungsi main
+
+<img width="832" height="139" alt="image" src="https://github.com/user-attachments/assets/1ab5990f-108a-4280-97ef-7f616e3724c7" />
 
 di sini kita memasuki materi komentar yang dimana materi komentar ini itu lumayan penting
 sebab bisa menjadi penanda atau pengarti kode anda apabila kode ada di rasa bingung atau kurang 
