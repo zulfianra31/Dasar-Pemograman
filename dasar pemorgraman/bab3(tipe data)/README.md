@@ -31,3 +31,8 @@ di bilang hasilnya hanya ada 2, yaitu iya atau tidak/ sudah atau belum kurang le
 itu,jadi nanti saat melakukan sesuatu kita memlakukan proses nanti kita bisa melihat atau memberi instruksi tambahan
 bahwa kode kita sudah selesai atau belum
 
+# 6. Tipe tersruktur/ tipe bentukan
+
+nah biasanya ini di gunakan sebelum kita masuk ke tempat jalannya kode dimana ini adalah sebuah bungkusan yang berisi data kita yang bisa kita panggil berulang kali gar tidak terjadi kesulitan dalam pembuatan kode
+
+semisalnya kita memiliki bungkusan bernama jam, lalu isinya nanti berupa jam, menit dan detik, nanti saat pemanggilan kita bisa dengan mudah memberdakannya dan juga bisa dengan mudah kita mengeksekusinya

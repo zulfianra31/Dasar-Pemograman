@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/dasar pemograman/dasar pemorgraman/bab1(algoritma dan pemograman)",
-      "program": "e:/dasar pemograman/dasar pemorgraman/bab1(algoritma dan pemograman)/build/Debug/outDebug",
+      "cwd": "e:/dasar pemograman/dasar pemorgraman/bab3(tipe data)",
+      "program": "e:/dasar pemograman/dasar pemorgraman/bab3(tipe data)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
